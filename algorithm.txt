@@ -1,0 +1,27 @@
+---
+
+LIBRARYS:
+    1) Selenium
+    2) Openyxl
+    Dowload: pip3 install selenium openpyxl
+
+--- 
+
+STEP 1:
+- Acess this link: 
+    https://www.kabum.com.br/computadores/monitores/monitor-gamer
+
+
+STEP 2: 
+- Take the computer name (title)
+
+
+STEP 3: 
+- Take the computer price
+
+
+STEP 4: 
+- Insert the title and the respective price in the excel
+
+
+--- 
