@@ -9,8 +9,8 @@ Esse repositório hospeda uma solução de webscraping para benchamrk de dados d
 * Plotly_express - Criação de Gŕaficos Interativos
 
 ### Inferência
-* ![image](https://github.com/gustavomartins-github/WebScraping-Kabum_Gamer_Monitors/assets/72039007/7dddb004-aa5c-44e1-bfcb-71857633370e)
-
+![image](https://github.com/gustavomartins-github/WebScraping-Kabum_Gamer_Monitors/assets/72039007/7dddb004-aa5c-44e1-bfcb-71857633370e)
+Obs.: caso deseje apenas visualizar o gráfico, basta abrir o arquivo graphic.html em seu navegador de preferência ou leitor HTML.
 ### Sobre o código
 
 O código foi estruturado em um <a href = "https://github.com/gustavomartins-github/WebScraping-Kabum_Gamer_Monitors/blob/main/app.ipynb">jupyter notebook</a> contendo 4 etapas principais. São elas
@@ -19,8 +19,6 @@ O código foi estruturado em um <a href = "https://github.com/gustavomartins-git
 * <strong>ETAPA 02</strong> (Criação do Excel): criação e população da base de dados que mais tarde será utilizada para plotar o gráfico interativo.
 * <strong>ETAPA 03</strong> (Formatação dos Dados): refinamento dos dados para torna-los utilizáveis ao futuro gráfico
 * <strong>ETAPA 04</strong> (Criação do Gráfico): criação do gráfico de linhas de acordo com os dados coletados e refinados da base de dados
-
-Obs.: caso deseje apenas visualizar o gráfico, basta abrir o arquivo graphic.html
 
 ### Referências
 * <a href = "https://www.youtube.com/watch?v=UVfNeNoybOs">Dev Aprender (Jhonatan Souza)</a>
